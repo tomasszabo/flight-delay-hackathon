@@ -46,7 +46,11 @@
 				"ms-dotnettools.csdevkit",
 				"vscjava.vscode-maven",
 				"vscjava.vscode-gradle",
-			]
+				"benjaminbenais.copilot-theme"
+			],
+			"settings": {
+				"workbench.colorTheme": "Copilot Theme"	
+			}
 		}
 	},
 
